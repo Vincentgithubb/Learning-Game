@@ -1,0 +1,82 @@
+[
+    {
+        "question": "What is behind the blanks in 'be - was - ....'?",
+        "choice1": "is",
+        "choice2": "were",
+        "choice3": "am",
+        "choice4": "been",
+        "answer": 4
+    },
+    {
+        "question": "Which form is correct for 'begin - began - ....'?",
+        "choice1": "beginned",
+        "choice2": "begun",
+        "choice3": "beganed",
+        "choice4": "begined",
+        "answer": 2
+    },
+    {
+        "question": "Find the correct form for 'forget - forgot - ....'?",
+        "choice1": "forgotten",
+        "choice2": "forgets",
+        "choice3": "forgetted",
+        "choice4": "forgoten",
+        "answer": 1
+    },
+    {
+        "question": "Complete 'do - did - ....'?",
+        "choice1": "done",
+        "choice2": "did",
+        "choice3": "doed",
+        "choice4": "do",
+        "answer": 1
+    },
+    {
+        "question": "The correct form for 'eat - ate - ....' is?",
+        "choice1": "eat",
+        "choice2": "eated",
+        "choice3": "eated",
+        "choice4": "eaten",
+        "answer": 4
+    },
+    {
+        "question": "What is in the blanks for 'go - went - ....'?",
+        "choice1": "gone",
+        "choice2": "goed",
+        "choice3": "going",
+        "choice4": "went",
+        "answer": 1
+    },
+    {
+        "question": "Find the correct form for 'have - had - ....'?",
+        "choice1": "has",
+        "choice2": "have",
+        "choice3": "had",
+        "choice4": "having",
+        "answer": 3
+    },
+    {
+        "question": "Complete 'see - saw - ....'?",
+        "choice1": "see",
+        "choice2": "seen",
+        "choice3": "sawed",
+        "choice4": "saw",
+        "answer": 2
+    },
+    {
+        "question": "The correct form for 'take - took - ....' is?",
+        "choice1": "taken",
+        "choice2": "take",
+        "choice3": "took",
+        "choice4": "taking",
+        "answer": 1
+    },
+    {
+        "question": "Which form is correct for 'write - wrote - ....'?",
+        "choice1": "written",
+        "choice2": "write",
+        "choice3": "wroted",
+        "choice4": "wrote",
+        "answer": 1
+    }
+]
