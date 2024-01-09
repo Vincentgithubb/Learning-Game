@@ -1,82 +1,138 @@
 [
-    {
-        "question": "What is behind the blanks in 'be - was - ....'?",
-        "choice1": "is",
-        "choice2": "were",
-        "choice3": "am",
-        "choice4": "been",
-        "answer": 4
-    },
-    {
-        "question": "Which form is correct for 'begin - began - ....'?",
-        "choice1": "beginned",
-        "choice2": "begun",
-        "choice3": "beganed",
-        "choice4": "begined",
-        "answer": 2
-    },
-    {
-        "question": "Find the correct form for 'forget - forgot - ....'?",
-        "choice1": "forgotten",
-        "choice2": "forgets",
-        "choice3": "forgetted",
-        "choice4": "forgoten",
-        "answer": 1
-    },
-    {
-        "question": "Complete 'do - did - ....'?",
-        "choice1": "done",
-        "choice2": "did",
-        "choice3": "doed",
-        "choice4": "do",
-        "answer": 1
-    },
-    {
-        "question": "The correct form for 'eat - ate - ....' is?",
-        "choice1": "eat",
-        "choice2": "eated",
-        "choice3": "eated",
-        "choice4": "eaten",
-        "answer": 4
-    },
-    {
-        "question": "What is in the blanks for 'go - went - ....'?",
-        "choice1": "gone",
-        "choice2": "goed",
-        "choice3": "going",
-        "choice4": "went",
-        "answer": 1
-    },
-    {
-        "question": "Find the correct form for 'have - had - ....'?",
-        "choice1": "has",
-        "choice2": "have",
-        "choice3": "had",
-        "choice4": "having",
-        "answer": 3
-    },
-    {
-        "question": "Complete 'see - saw - ....'?",
-        "choice1": "see",
-        "choice2": "seen",
-        "choice3": "sawed",
-        "choice4": "saw",
-        "answer": 2
-    },
-    {
-        "question": "The correct form for 'take - took - ....' is?",
-        "choice1": "taken",
-        "choice2": "take",
-        "choice3": "took",
-        "choice4": "taking",
-        "answer": 1
-    },
-    {
-        "question": "Which form is correct for 'write - wrote - ....'?",
-        "choice1": "written",
-        "choice2": "write",
-        "choice3": "wroted",
-        "choice4": "wrote",
-        "answer": 1
-    }
+  {
+    "question": "What is behind the blanks in 'be - was - ....'?",
+    "choice1": "is",
+    "choice2": "were",
+    "choice3": "am",
+    "choice4": "been",
+    "answer": 4
+  },
+  {
+    "question": "Which form is correct for 'begin - began - ....'?",
+    "choice1": "beginned",
+    "choice2": "begun",
+    "choice3": "beganed",
+    "choice4": "begined",
+    "answer": 2
+  },
+  {
+    "question": "Find the correct form for 'forget - forgot - ....'?",
+    "choice1": "forgotten",
+    "choice2": "forgets",
+    "choice3": "forgetted",
+    "choice4": "forgoten",
+    "answer": 1
+  },
+  {
+    "question": "Complete 'do - did - ....'?",
+    "choice1": "done",
+    "choice2": "did",
+    "choice3": "doed",
+    "choice4": "do",
+    "answer": 1
+  },
+  {
+    "question": "The correct form for 'eat - ate - ....' is?",
+    "choice1": "eat",
+    "choice2": "eated",
+    "choice3": "eated",
+    "choice4": "eaten",
+    "answer": 4
+  },
+  {
+    "question": "What is in the blanks for 'go - went - ....'?",
+    "choice1": "gone",
+    "choice2": "goed",
+    "choice3": "going",
+    "choice4": "went",
+    "answer": 1
+  },
+  {
+    "question": "Find the correct form for 'have - had - ....'?",
+    "choice1": "has",
+    "choice2": "have",
+    "choice3": "had",
+    "choice4": "having",
+    "answer": 3
+  },
+  {
+    "question": "Complete 'see - saw - ....'?",
+    "choice1": "see",
+    "choice2": "seen",
+    "choice3": "sawed",
+    "choice4": "saw",
+    "answer": 2
+  },
+  {
+    "question": "The correct form for 'take - took - ....' is?",
+    "choice1": "taken",
+    "choice2": "take",
+    "choice3": "took",
+    "choice4": "taking",
+    "answer": 1
+  },
+  {
+    "question": "Which form is correct for 'write - wrote - ....'?",
+    "choice1": "written",
+    "choice2": "write",
+    "choice3": "wroted",
+    "choice4": "wrote",
+    "answer": 1
+  },
+  {
+    "question": "Fill in the blank : How _______ does this cost? ",
+    "choice1": "many",
+    "choice2": "far",
+    "choice3": "much",
+    "choice4": "long",
+    "answer": 3
+  },
+  {
+    "question": "Fill in the blank : I am so ____________. I need to eat something. ",
+    "choice1": "thirsty",
+    "choice2": "exhausted",
+    "choice3": "much",
+    "choice4": "hungry",
+    "answer": 4
+  },
+  {
+    "question": "Fill in the blank : London is the capital of the United ________ . ",
+    "choice1": "country",
+    "choice2": "Kingdom",
+    "choice3": "land",
+    "choice4": "States",
+    "answer": 2
+  },
+  {
+    "question": "Fill in the blank : No way?! It’s already 8pm?! ___________. ",
+    "choice1": "time flies",
+    "choice2": "time goes",
+    "choice3": "times flies",
+    "choice4": "time escapes",
+    "answer": 1
+  },
+  {
+    "question": "Fill in the blank : _________________ you give me a hand, please? ",
+    "choice1": "will",
+    "choice2": "do",
+    "choice3": "could",
+    "choice4": "shall",
+    "answer": 3
+  },
+  {
+    "question": "Fill in the blank : He is ____________ travelling throughout Asia. ",
+    "choice1": "right now",
+    "choice2": "actually",
+    "choice3": "currently",
+    "choice4": "promptly",
+    "answer": 3
+  },
+  {
+    "question": "Fill in the blank : Yesterday, I was so upset that  I __________  sleep… ",
+    "choice1": "wouldn't",
+    "choice2": "couldn't",
+    "choice3": "shouldn't",
+    "choice4": "can't",
+    "answer": 2
+  }
 ]
